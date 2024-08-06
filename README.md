@@ -1,3 +1,8 @@
 All the code regarding the website
 
-The URL can be found here https://5576ba50-8266-4c8c-9ff4-8ed9cdae0d7a-00-8ulfb60563fy.kirk.replit.dev/
+The URL can be found here 
+
+https://bb757b41-8a50-4632-a688-58904492e053-00-1yyy5k9pa0q9w.janeway.replit.dev/
+
+(The link might not work, so its suggested that you launch the site properly through replit.
+
