@@ -25,7 +25,7 @@ nav {
 }
 
 .NavInDaCenter .logo {
-    height: 40px;
+    height: 50px;
 }
 
 .NavOnDaRight ul {
@@ -96,5 +96,19 @@ nav {
 
 .BigOlTextElectricBoogaloo{
     text-align: center;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.TheLinkOrWhatever{
+    text-decoration: none;
+    color: black;
+}
+
+.TheName{
     font-size: 20px;
 }
